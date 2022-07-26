@@ -25,4 +25,6 @@
   <string name="choice_scissors">Scissors</string>
 
   <string name="game_score">%1$d : %2$d</string>
+    <string name="send_image">Send Image</string>
+  <string name="got_image">Image received, view</string>
 </resources>

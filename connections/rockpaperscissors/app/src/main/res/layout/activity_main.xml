@@ -50,6 +50,12 @@
   </LinearLayout>
 
   <Button
+      android:id="@+id/image_button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/send_image" />
+
+  <Button
       android:id="@+id/find_opponent"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
